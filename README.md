@@ -8,7 +8,7 @@ An interactive Streamlit dashboard built on two public datasets:
    — global CO2 emissions, per-capita figures, and fuel-source breakdown,
    1900–2024.
 
-**Live demo:** _add your Streamlit Cloud URL here after deploying_
+**Live demo:** https://eu-employment-co2-dashboard-gtvdhwvdffy5dgmt4fdsd2.streamlit.app
 
 ## What it shows
 
